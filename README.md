@@ -1,5 +1,5 @@
-## find_patterns
+# find_patterns
 Find string patterns in files for static APK analysis
 
-# Instructions:
+## Instructions:
 Syntax: ./run.sh <keywords> <apks_folder>
